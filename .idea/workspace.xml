@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3427d4bb-a75d-43dd-b40d-8ed94088f0f6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bcCQxOFPPcE3td2b9YvBIHwKPQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../module00" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Application.ArrayIndexOutOfBoundsException">
+    <configuration name="ArrayIndexOutOfBoundsException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Mangvaphuongthuc.thuchanh.ArrayIndexOutOfBoundsException" />
+      <module name="module02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Mangvaphuongthuc.thuchanh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IllegalTriangleException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Mangvaphuongthuc.baitap.IllegalTriangleException" />
+      <module name="module02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Mangvaphuongthuc.baitap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TinhTongCacSoTrongCot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Mangvaphuongthuc.baitap.TinhTongCacSoTrongCot" />
+      <module name="module02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Mangvaphuongthuc.baitap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TinhTongDuongCheo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Mangvaphuongthuc.baitap.TinhTongDuongCheo" />
+      <module name="module02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Mangvaphuongthuc.baitap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chuyendoitientew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Ngonngulaptrinhjava.baitap.chuyendoitientew" />
+      <module name="module02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Ngonngulaptrinhjava.baitap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TinhTongDuongCheo" />
+      <item itemvalue="Application.chuyendoitientew" />
+      <item itemvalue="Application.TinhTongCacSoTrongCot" />
+      <item itemvalue="Application.IllegalTriangleException" />
+      <item itemvalue="Application.ArrayIndexOutOfBoundsException" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArrayIndexOutOfBoundsException" />
+        <item itemvalue="Application.IllegalTriangleException" />
+        <item itemvalue="Application.TinhTongCacSoTrongCot" />
+        <item itemvalue="Application.TinhTongDuongCheo" />
+        <item itemvalue="Application.chuyendoitientew" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3427d4bb-a75d-43dd-b40d-8ed94088f0f6" name="Default Changelist" comment="" />
+      <created>1588921983004</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588921983004</updated>
+      <workItem from="1588922062179" duration="3842000" />
+      <workItem from="1589028792954" duration="753000" />
+      <workItem from="1589117868387" duration="502000" />
+      <workItem from="1589159652776" duration="23345000" />
+      <workItem from="1589332738231" duration="2764000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1588922363612">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588922363612" />
+    <state width="1537" height="164" key="GridCell.Tab.0.bottom" timestamp="1589353244641">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="164" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589353244641" />
+    <state width="1537" height="164" key="GridCell.Tab.0.center" timestamp="1589353244640">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="164" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589353244640" />
+    <state width="1537" height="164" key="GridCell.Tab.0.left" timestamp="1589353244640">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="164" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589353244640" />
+    <state width="1537" height="164" key="GridCell.Tab.0.right" timestamp="1589353244641">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="164" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589353244641" />
+    <state width="1537" height="270" key="GridCell.Tab.1.bottom" timestamp="1589213609835">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="270" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589213609835" />
+    <state width="1537" height="270" key="GridCell.Tab.1.center" timestamp="1589213609835">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="270" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1589213609835" />
+    <state width="1537" height="270" key="GridCell.Tab.1.left" timestamp="1589213609835">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="270" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1589213609835" />
+    <state width="1537" height="270" key="GridCell.Tab.1.right" timestamp="1589213609835">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="270" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1589213609835" />
+    <state x="374" y="0" key="SettingsEditor" timestamp="1589333201688">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="374" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589333201688" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1589332739389">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1589332739389" />
+    <state x="933" y="168" key="extract.method.dialog" timestamp="1589181837616">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="933" y="168" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1589181837616" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1589175010222">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1589175010222" />
+  </component>
+</project>
