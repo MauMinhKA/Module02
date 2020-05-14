@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3427d4bb-a75d-43dd-b40d-8ed94088f0f6" name="Default Changelist" comment="" />
+    <list default="true" id="3427d4bb-a75d-43dd-b40d-8ed94088f0f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/ClassandOopOject/baitap/Fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/ClassandOopOject/baitap/QuadraticEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/ClassandOopOject/baitap/RunFan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/ClassandOopOject/baitap/StopWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/ClassandOopOject/baitap/runQuadraticEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/ClassandOopOject/baitap/runStopWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/ClassandOopOject/thuchanh/ClassRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/ClassandOopOject/thuchanh/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/kethua/baitap/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/kethua/baitap/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/kethua/baitap/MoveablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/kethua/baitap/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/kethua/baitap/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/kethua/baitap/point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/kethua/thuchanh/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/kethua/thuchanh/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/kethua/thuchanh/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/kethua/thuchanh/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/test/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/module02/src/Mangvaphuongthuc/baitap/llegalTriangleException.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +37,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bcCQxOFPPcE3td2b9YvBIHwKPQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,18 +51,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../module00" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.ArrayIndexOutOfBoundsException">
-    <configuration name="ArrayIndexOutOfBoundsException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Mangvaphuongthuc.thuchanh.ArrayIndexOutOfBoundsException" />
+  <component name="RunManager" selected="Application.MoveablePoint">
+    <configuration name="Circle (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.kethua.baitap.Circle" />
       <module name="module02" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Mangvaphuongthuc.thuchanh.*" />
+          <option name="PATTERN" value="src.kethua.baitap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -41,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IllegalTriangleException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Mangvaphuongthuc.baitap.IllegalTriangleException" />
+    <configuration name="MoveablePoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.kethua.baitap.MoveablePoint" />
       <module name="module02" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Mangvaphuongthuc.baitap.*" />
+          <option name="PATTERN" value="src.kethua.baitap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TinhTongCacSoTrongCot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Mangvaphuongthuc.baitap.TinhTongCacSoTrongCot" />
+    <configuration name="Point" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.kethua.baitap.Point" />
       <module name="module02" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Mangvaphuongthuc.baitap.*" />
+          <option name="PATTERN" value="src.kethua.baitap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TinhTongDuongCheo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Mangvaphuongthuc.baitap.TinhTongDuongCheo" />
+    <configuration name="Point2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.kethua.baitap.Point2D" />
       <module name="module02" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Mangvaphuongthuc.baitap.*" />
+          <option name="PATTERN" value="src.kethua.baitap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chuyendoitientew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Ngonngulaptrinhjava.baitap.chuyendoitientew" />
+    <configuration name="point3D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.kethua.baitap.point3D" />
       <module name="module02" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Ngonngulaptrinhjava.baitap.*" />
+          <option name="PATTERN" value="src.kethua.baitap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,19 +124,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TinhTongDuongCheo" />
-      <item itemvalue="Application.chuyendoitientew" />
-      <item itemvalue="Application.TinhTongCacSoTrongCot" />
-      <item itemvalue="Application.IllegalTriangleException" />
-      <item itemvalue="Application.ArrayIndexOutOfBoundsException" />
+      <item itemvalue="Application.Circle (1)" />
+      <item itemvalue="Application.Point2D" />
+      <item itemvalue="Application.point3D" />
+      <item itemvalue="Application.Point" />
+      <item itemvalue="Application.MoveablePoint" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayIndexOutOfBoundsException" />
-        <item itemvalue="Application.IllegalTriangleException" />
-        <item itemvalue="Application.TinhTongCacSoTrongCot" />
-        <item itemvalue="Application.TinhTongDuongCheo" />
-        <item itemvalue="Application.chuyendoitientew" />
+        <item itemvalue="Application.MoveablePoint" />
+        <item itemvalue="Application.Point" />
+        <item itemvalue="Application.point3D" />
+        <item itemvalue="Application.Point2D" />
+        <item itemvalue="Application.Circle (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -125,6 +155,8 @@
       <workItem from="1589117868387" duration="502000" />
       <workItem from="1589159652776" duration="23345000" />
       <workItem from="1589332738231" duration="2764000" />
+      <workItem from="1589420353341" duration="15605000" />
+      <workItem from="1589458215596" duration="9792000" />
     </task>
     <servers />
   </component>
@@ -132,26 +164,38 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="930" y="193" key="#com.intellij.ide.util.MemberChooser" timestamp="1589473025379">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="930" y="193" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1589473025379" />
+    <state x="516" y="304" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1589426773297">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="516" y="304" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1589426773297" />
+    <state x="385" y="6" key="CommitChangelistDialog2" timestamp="1589472365232">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="385" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1589472365232" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1588922363612">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588922363612" />
-    <state width="1537" height="164" key="GridCell.Tab.0.bottom" timestamp="1589353244641">
+    <state width="1537" height="129" key="GridCell.Tab.0.bottom" timestamp="1589474146484">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="164" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589353244641" />
-    <state width="1537" height="164" key="GridCell.Tab.0.center" timestamp="1589353244640">
+    <state width="1537" height="129" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589474146484" />
+    <state width="1537" height="129" key="GridCell.Tab.0.center" timestamp="1589474146483">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="164" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589353244640" />
-    <state width="1537" height="164" key="GridCell.Tab.0.left" timestamp="1589353244640">
+    <state width="1537" height="129" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589474146483" />
+    <state width="1537" height="129" key="GridCell.Tab.0.left" timestamp="1589474146483">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="164" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589353244640" />
-    <state width="1537" height="164" key="GridCell.Tab.0.right" timestamp="1589353244641">
+    <state width="1537" height="129" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589474146483" />
+    <state width="1537" height="129" key="GridCell.Tab.0.right" timestamp="1589474146484">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="164" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589353244641" />
+    <state width="1537" height="129" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589474146484" />
     <state width="1537" height="270" key="GridCell.Tab.1.bottom" timestamp="1589213609835">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -168,21 +212,21 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1537" height="270" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1589213609835" />
-    <state x="374" y="0" key="SettingsEditor" timestamp="1589333201688">
+    <state x="58" y="9" width="1308" height="707" key="SettingsEditor" timestamp="1589472602380">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="374" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589333201688" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1589332739389">
+    <state x="58" y="9" width="1308" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589472602380" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1589458215350">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1589332739389" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1589458215350" />
     <state x="933" y="168" key="extract.method.dialog" timestamp="1589181837616">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="933" y="168" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1589181837616" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1589175010222">
+    <state x="425" y="187" key="run.anything.popup" timestamp="1589422584802">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1589175010222" />
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1589422584802" />
   </component>
 </project>
