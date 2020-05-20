@@ -2,44 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3427d4bb-a75d-43dd-b40d-8ed94088f0f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/src/Test/HinhTron.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/Test/Hinhhoc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/ThietKeDoiTuongnangcao/baitap/Colorable/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/ThietKeDoiTuongnangcao/baitap/Colorable/CircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/ThietKeDoiTuongnangcao/baitap/Colorable/Colorable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/ThietKeDoiTuongnangcao/baitap/Colorable/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/ThietKeDoiTuongnangcao/baitap/Colorable/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/ThietKeDoiTuongnangcao/baitap/Colorable/RectangleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/ThietKeDoiTuongnangcao/baitap/Colorable/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/ThietKeDoiTuongnangcao/baitap/Colorable/ShapeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/ThietKeDoiTuongnangcao/baitap/Colorable/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/ThietKeDoiTuongnangcao/baitap/Colorable/SquareTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/ThietKeDoiTuongnangcao/baitap/Resizeable/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/ThietKeDoiTuongnangcao/baitap/Resizeable/CircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/ThietKeDoiTuongnangcao/baitap/Resizeable/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/ThietKeDoiTuongnangcao/baitap/Resizeable/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/ThietKeDoiTuongnangcao/baitap/Resizeable/RectangleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/ThietKeDoiTuongnangcao/baitap/Resizeable/Resizeable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/ThietKeDoiTuongnangcao/baitap/Resizeable/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/ThietKeDoiTuongnangcao/baitap/Resizeable/ShapeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/ThietKeDoiTuongnangcao/baitap/Resizeable/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/ThietKeDoiTuongnangcao/baitap/Resizeable/SquareTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/ThietKeDoiTuongnangcao/thuchanh/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/ThietKeDoiTuongnangcao/thuchanh/CircleComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/ThietKeDoiTuongnangcao/thuchanh/CircleComparatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/ThietKeDoiTuongnangcao/thuchanh/CircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/ThietKeDoiTuongnangcao/thuchanh/ComparableCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/ThietKeDoiTuongnangcao/thuchanh/ComparableCircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/ThietKeDoiTuongnangcao/thuchanh/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/ThietKeDoiTuongnangcao/thuchanh/RectangleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/ThietKeDoiTuongnangcao/thuchanh/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/ThietKeDoiTuongnangcao/thuchanh/ShapeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/ThietKeDoiTuongnangcao/thuchanh/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/ThietKeDoiTuongnangcao/thuchanh/SquareTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/kethua/baitap/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/CauTrucDuLieu/baitap/ArrayList/MyList1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/CauTrucDuLieu/baitap/LinkedList/MyLinkedListBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/CauTrucDuLieu/baitap/LinkedList/TestMyLinkedListBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/CauTrucDuLieu/thuchanh/LinkedList/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/CauTrucDuLieu/thuchanh/LinkedList/TestMyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/CauTrucDuLieu/thuchanh/List/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/CauTrucDuLieu/thuchanh/List/MyListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/Test/AnonymousInnerClass/PersonWithAbstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/Test/AnonymousInnerClass/PersonWithInnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/Test/AnonymousInnerClass/PersonWithInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/Test/ComparablevsComparator/Person_Comparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/Test/ComparablevsComparator/Person_Comparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/Test/Generic/Generic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/Test/Generic/GenericMethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/Test/LinkedListvaArrayList/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/Test/LinkedListvaArrayList/MyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/Test/LinkedListvaArrayList/MyLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/module02/src/test/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/test/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Test/HinhTron.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Test/TestInterFace/HinhTron.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Test/Hinhhoc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Test/TestInterFace/Hinhhoc.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,22 +53,23 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/src/ThietKeDoiTuongnangcao/baitap/Colorable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\C0320G1-Truong-Khanh-Mau\module02\src\src\Test" />
       <recent name="F:\C0320G1-Truong-Khanh-Mau\module02\src\src\ThietKeDoiTuongnangcao\baitap\Colorable" />
       <recent name="F:\C0320G1-Truong-Khanh-Mau\module02\src\src\ThietKeDoiTuongnangcao\baitap" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="CircleComparatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.ThietKeDoiTuongnangcao.thuchanh.CircleComparatorTest" />
+  <component name="RunManager" selected="Application.HinhTron">
+    <configuration name="HinhTron" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Test.TestInterFace.HinhTron" />
       <module name="module02" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.ThietKeDoiTuongnangcao.thuchanh.*" />
+          <option name="PATTERN" value="src.Test.LinkedListvaArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CircleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.ThietKeDoiTuongnangcao.baitap.Resizeable.CircleTest" />
+    <configuration name="PersonWithAbstract" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Test.AnonymousInnerClass.PersonWithAbstract" />
       <module name="module02" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.ThietKeDoiTuongnangcao.baitap.Resizeable.*" />
+          <option name="PATTERN" value="src.Test.AnonymousInnerClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.ThietKeDoiTuongnangcao.baitap.Colorable.Main" />
+    <configuration name="PersonWithInnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Test.AnonymousInnerClass.PersonWithInnerClass" />
       <module name="module02" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.ThietKeDoiTuongnangcao.baitap.Colorable.*" />
+          <option name="PATTERN" value="src.Test.AnonymousInnerClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.ThietKeDoiTuongnangcao.baitap.Resizeable.Main" />
+    <configuration name="PersonWithInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Test.AnonymousInnerClass.PersonWithInterface" />
       <module name="module02" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.ThietKeDoiTuongnangcao.baitap.Resizeable.*" />
+          <option name="PATTERN" value="src.Test.AnonymousInnerClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SquareTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.ThietKeDoiTuongnangcao.thuchanh.SquareTest" />
+    <configuration name="testAnonymousInnerClass1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Test.AnonymousInnerClass.testAnonymousInnerClass1" />
       <module name="module02" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.ThietKeDoiTuongnangcao.thuchanh.*" />
+          <option name="PATTERN" value="src.Test.AnonymousInnerClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,19 +130,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CircleComparatorTest" />
-      <item itemvalue="Application.SquareTest" />
-      <item itemvalue="Application.CircleTest (1)" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.testAnonymousInnerClass1" />
+      <item itemvalue="Application.PersonWithInnerClass" />
+      <item itemvalue="Application.PersonWithInterface" />
+      <item itemvalue="Application.PersonWithAbstract" />
+      <item itemvalue="Application.HinhTron" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.CircleTest (1)" />
-        <item itemvalue="Application.CircleComparatorTest" />
-        <item itemvalue="Application.SquareTest" />
+        <item itemvalue="Application.HinhTron" />
+        <item itemvalue="Application.PersonWithAbstract" />
+        <item itemvalue="Application.PersonWithInterface" />
+        <item itemvalue="Application.PersonWithInnerClass" />
+        <item itemvalue="Application.testAnonymousInnerClass1" />
       </list>
     </recent_temporary>
   </component>
@@ -185,6 +168,10 @@
       <workItem from="1589639747482" duration="1970000" />
       <workItem from="1589758066220" duration="2097000" />
       <workItem from="1589765596754" duration="12280000" />
+      <workItem from="1589860862177" duration="10274000" />
+      <workItem from="1589938747315" duration="17910000" />
+      <workItem from="1589983945560" duration="494000" />
+      <workItem from="1589985743990" duration="5686000" />
     </task>
     <servers />
   </component>
@@ -196,10 +183,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="71" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1589549116690" />
-    <state x="930" y="193" key="#com.intellij.ide.util.MemberChooser" timestamp="1589792398038">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589959482454">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="930" y="193" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1589792398038" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1589959482454" />
+    <state x="930" y="193" key="#com.intellij.ide.util.MemberChooser" timestamp="1589990008827">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="930" y="193" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1589990008827" />
+    <state x="566" y="297" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589939800398">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="297" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1589939800398" />
     <state x="516" y="304" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1589426773297">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -208,26 +203,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="385" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1589472365232" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1588922363612">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1589984483647">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588922363612" />
-    <state width="1537" height="258" key="GridCell.Tab.0.bottom" timestamp="1589794187345">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589984483647" />
+    <state width="1537" height="161" key="GridCell.Tab.0.bottom" timestamp="1589992901475">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="258" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589794187345" />
-    <state width="1537" height="258" key="GridCell.Tab.0.center" timestamp="1589794187345">
+    <state width="1537" height="161" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589992901475" />
+    <state width="1537" height="161" key="GridCell.Tab.0.center" timestamp="1589992901475">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="258" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589794187345" />
-    <state width="1537" height="258" key="GridCell.Tab.0.left" timestamp="1589794187345">
+    <state width="1537" height="161" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589992901475" />
+    <state width="1537" height="161" key="GridCell.Tab.0.left" timestamp="1589992901475">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="258" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589794187345" />
-    <state width="1537" height="258" key="GridCell.Tab.0.right" timestamp="1589794187345">
+    <state width="1537" height="161" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589992901475" />
+    <state width="1537" height="161" key="GridCell.Tab.0.right" timestamp="1589992901475">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="258" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589794187345" />
+    <state width="1537" height="161" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589992901475" />
     <state width="1537" height="270" key="GridCell.Tab.1.bottom" timestamp="1589213609835">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -244,10 +239,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1537" height="270" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1589213609835" />
-    <state x="70" y="43" width="1308" height="724" key="SettingsEditor" timestamp="1589641714367">
+    <state x="56" y="43" width="1308" height="724" key="SettingsEditor" timestamp="1589984298801">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="70" y="43" width="1308" height="724" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589641714367" />
+    <state x="56" y="43" width="1308" height="724" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589984298801" />
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1589635107116">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

@@ -1,4 +1,4 @@
-package src.Test;
+package src.Test.TestInterFace;
 
 public class HinhTron implements Hinhhoc {
 
